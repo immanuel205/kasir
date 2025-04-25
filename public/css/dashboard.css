@@ -1,0 +1,40 @@
+/* Gaya CSS untuk Dashboard */
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.col-md-4 {
+    margin-bottom: 20px;
+}
+
+/* Gaya untuk nilai */
+p {
+    font-size: 24px;
+    color: #28a745;
+    font-weight: bold;
+}
+
+
+.sidebar i {
+    margin-right: 10px;  
+    color: #ffffff;  
+    font-size: 18px;  
+}
